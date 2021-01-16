@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="navigationColor">#3F51B5</color>
+    <color name="backgroundColor">#E5E5E5</color>
+    <color name="backgroundgray">#E5E5E5</color>
+    <color name="textViewColor">#FFFFFF</color>
+    <color name ="black">#000000</color>
+    <color name ="empty">#00000000</color>
+    <color name ="tablered">#FEE8E8</color>
+    <color name ="tablegreen">#d8f2e7</color>
+    <color name ="lightgray">#f5f5f5</color>
+    <color name ="lightred">#ffe9e8</color>
+</resources>
